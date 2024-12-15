@@ -84,7 +84,7 @@ index.html
         <!-- Example Card -->
         <div class="col">
           <div class="card">
-            <img src="images/b1.png" class="card-img-top" alt="Design">
+            <img src="b1.png" class="card-img-top" alt="Design">
             <div class="card-body">
               <p class="card-text">Famous</p>
             </div>
@@ -93,7 +93,7 @@ index.html
         <!-- Duplicate the card -->
         <div class="col">
           <div class="card">
-            <img src="images/b2.png" class="card-img-top" alt="Design">
+            <img src="b2.png" class="card-img-top" alt="Design">
             <div class="card-body">
               <p class="card-text">Balkan Brothers</p>
             </div>
@@ -101,7 +101,7 @@ index.html
         </div>
         <div class="col">
           <div class="card">
-            <img src="images/b3.png" class="card-img-top" alt="Design">
+            <img src="b3.png" class="card-img-top" alt="Design">
             <div class="card-body">
               <p class="card-text">Jan Losert</p>
             </div>
@@ -109,7 +109,7 @@ index.html
         </div>
         <div class="col">
           <div class="card">
-            <img src="images/b4.png" class="card-img-top" alt="Design">
+            <img src="b4.png" class="card-img-top" alt="Design">
             <div class="card-body">
               <p class="card-text">Mattias Johansson</p>
             </div>
@@ -117,7 +117,7 @@ index.html
         </div>
         <div class="row-cols-1">
             <div class="card">
-              <img src="images/b5.png" class="card-img-top" alt="Design">
+              <img src="b5.png" class="card-img-top" alt="Design">
               <div class="card-body">
                 <p class="card-text">Jan Losert</p>
               </div>
@@ -125,7 +125,7 @@ index.html
           </div>
           <div class="row-cols-1">
             <div class="card">
-              <img src="images/b6.png" class="card-img-top" alt="Design">
+              <img src="b6.png" class="card-img-top" alt="Design">
               <div class="card-body">
                 <p class="card-text">Dmitriy Dzendo</p>
               </div>
@@ -133,7 +133,7 @@ index.html
           </div>
           <div class="col">
             <div class="card">
-              <img src="images/b7.png" class="card-img-top" alt="Design">
+              <img src="b7.png" class="card-img-top" alt="Design">
               <div class="card-body">
                 <p class="card-text">Mr.Anis</p>
               </div>
@@ -141,7 +141,7 @@ index.html
           </div>
           <div class="col">
             <div class="card">
-              <img src="images/b8.png" class="card-img-top" alt="Design">
+              <img src="b8.png" class="card-img-top" alt="Design">
               <div class="card-body">
                 <p class="card-text">Derrick Stracton</p>
               </div>
@@ -160,8 +160,6 @@ index.html
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
-
-
 
 
 ```
@@ -204,9 +202,9 @@ body {
   
 ```
 ## OUTPUT:
-![alt text](dribbble1.png)
+![alt text](<Screenshot 2024-12-15 131240.png>)
 
-![alt text](dribbble.png)
+![alt text](<Screenshot 2024-12-15 131252.png>)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
